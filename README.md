@@ -6,7 +6,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 # Artificial-Intelligence-Projects
-
+# Artificial-Intelligence-Projects
 Collection of Artificial Intelligence projects realised by me. Some of these topics have been covered in my personal blog: <br>
 
 1. [Probability Distributions In Data Science](https://pierpaolo28.github.io/blog/blog19/)
